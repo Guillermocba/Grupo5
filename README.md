@@ -1,2 +1,2 @@
-# Grupo5
+# Proyecto Integrador
 scrum
