@@ -74,11 +74,13 @@ Adjunto video explicativo de cada pilar de scrum:
 https://www.youtube.com/watch?v=WLfYWwTZ8_I
 
 CEREMONIAS DEL SPRINT:
-Sprint Planning Meeting:(reunion de planificacion del sprint) Se produce al realizar cada sprint y tiene por objetivo decidir que se va a arealizar en cada sprint. Daily Scrum Meeting: (reunión periódica) Se produce diariamente, y tiene un máximo de duración de 20 minutos. Tiene por objeto tratar lo que se hizo, que se va hacer y que problemas se han encontrado, esto a fines de encontrar soluciones en la diaria.
-pique
+Sprint Planning Meeting:(reunion de planificacion del sprint) Se produce al realizar cada sprint y tiene por objetivo decidir que se va a arealizar en cada sprint.
 
-melé12
+![image](https://user-images.githubusercontent.com/98530951/177060813-80df61a1-5ba6-4ac0-adc4-20afaa6ad2f2.png)
 
+Daily Scrum Meeting: (reunión periódica) Se produce diariamente, y tiene un máximo de duración de 20 minutos. Tiene por objeto tratar lo que se hizo, que se va hacer y que problemas se han encontrado, esto a fines de encontrar soluciones en la diaria.
+
+![image](https://user-images.githubusercontent.com/98530951/177060855-a4eb0a8c-41ae-4c03-8c68-9ea3315a17d0.png)
 
 Sprint Review Meeting (reunión de revisión del Sprint). Se produce al finalizar el Sprint y tiene por objeto mostrar qué es lo que se ha completado y qué no.
 
@@ -107,7 +109,9 @@ Habitualmente son equipos 'cross-funcional', capaces de generar un incremento te
 ¿Qué es un Product Backlog?
 El backlog de un producto es una lista de trabajo ordenado por prioridades para el equipo de desarrollo que se obtiene de la hoja de ruta y sus requisitos. Los elementos más importantes se muestran al principio del backlog del producto para que el equipo sepa qué hay que entregar primero. backlog del producto en la medida de sus capacidades, ya sea de forma continua kanban o por iteraciones scrum.
 También sirve como base para planificar iteraciones. Todos los elementos de trabajo deben incluirse en el backlog: historias de usuario, bugs, cambios de diseño, deuda técnica, solicitudes de clientes, elementos de acción de la retrospectiva, etc.
-Backlog-3-1024x963
+
+![image](https://user-images.githubusercontent.com/98530951/177060915-51df6b84-4127-4b12-89b3-cc66191f5258.png)
+
 El equipo de desarrollo no trabaja con el backlog al ritmo que dicta el propietario del producto, y este no presiona al equipo de desarrollo para que saque el trabajo adelante. En su lugar, el equipo de desarrollo saca trabajo del backlog del producto en la medida de sus capacidades, ya sea de forma continua kanban o por iteraciones scrum.
 
 Mantener un backlog saludable
@@ -208,7 +212,6 @@ Ejemplo de implementación en un tablero Kanban:
 
 ![image](https://user-images.githubusercontent.com/98530951/177060723-debb4c06-640f-4d70-b69b-0745a6503639.png)
 
-grafico 2
 
 ¿Quién es el responsable del Sprint Backlog?
 
@@ -220,7 +223,7 @@ La diferencia entre Product Backlog y Sprint Backlog
 
 El Sprint Backlog se crea durante el evento de Sprint Planning. Se compone de los elementos seleccionados de la parte superior (lo más prioritario) del Product Backlog que se consideran necesarios a realizarse para cumplir el Objetivo del Sprint y que los Developers cree factible terminar según su velocidad y capacidad.
 
-grafico 1
+![image](https://user-images.githubusercontent.com/98530951/177060755-f42059cf-8501-4ca2-b053-f5df053d7b36.png)
 
 ¿Qué es el Increment en Scrum?
 El Increment (“Incremento” en español) o también conocido como Incremento de Producto es la suma de todos los ítems del Product Backlog (PBIs) completados durante un Sprint y el valor de los incrementos de todos los Sprints pasados. Es uno de los 3 artefactos de Scrum y se presenta en cada Sprint Review.
