@@ -285,6 +285,4 @@ Desde mi punto de vista creo que este es uno de los mayores desafíos que vengo 
 
 El incremento debe ser un paso hacia la visión del producto o algún objetivo que responde a esa visión. En este sentido es muy útil tener bien presente el Objetivo del Sprint a la hora de construir cada Incremento.
 
-------------------------
-
-https://github.com/Guillermocba/Grupo5/issues/11#issuecomment-1173147761
+----------------
