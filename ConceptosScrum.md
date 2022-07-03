@@ -206,6 +206,8 @@ A este tablero se le pueden agregar más columnas como por ejemplo «QA»
 
 Ejemplo de implementación en un tablero Kanban:
 
+![image](https://user-images.githubusercontent.com/98530951/177060723-debb4c06-640f-4d70-b69b-0745a6503639.png)
+
 grafico 2
 
 ¿Quién es el responsable del Sprint Backlog?
