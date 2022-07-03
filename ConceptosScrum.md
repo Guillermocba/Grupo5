@@ -284,3 +284,7 @@ Para entregar el Incremento, los Developers debe ser multifuncional, es decir, q
 Desde mi punto de vista creo que este es uno de los mayores desafíos que vengo observando en distintas organizaciones que intentan adoptar Scrum, dado que suelen existir incentivos hacia las personas y equipos en especializarse en un área o tecnología lo cual dificulta que un equipo solo pueda crear un Incremento completo.
 
 El incremento debe ser un paso hacia la visión del producto o algún objetivo que responde a esa visión. En este sentido es muy útil tener bien presente el Objetivo del Sprint a la hora de construir cada Incremento.
+
+------------------------
+
+https://github.com/Guillermocba/Grupo5/issues/11#issuecomment-1173147761
