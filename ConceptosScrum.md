@@ -73,6 +73,10 @@ Para que Scrum sea efectivo cada uno de los tres pilares debe estar en su lugar,
 Adjunto video explicativo de cada pilar de scrum:
 https://www.youtube.com/watch?v=WLfYWwTZ8_I
 
+Definicion de sprint
+
+El sprint es un periodo de corta duración que debe finalizar con un prototipo operativo o producto parcial entregable. El mismo se repite n veces a lo largo del proyecto y permite hacer entregas de producto en partes, donde cada entrega, es un incremento de funcionalidad respecto al anterior. Esto difiere del conocido ciclo de vida en cascada muy utilizado en el campo de desarrollo de software en que, las fases del ciclo de vida (requisitos, análisis, diseño, codificación, testing, etc) se realizan una única vez y el inicio de cada fase no comienza hasta que termina la que procede.
+
 CEREMONIAS DEL SPRINT:
 Sprint Planning Meeting:(reunion de planificacion del sprint) Se produce al realizar cada sprint y tiene por objetivo decidir que se va a arealizar en cada sprint.
 
